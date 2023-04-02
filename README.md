@@ -1,4 +1,4 @@
-# qiankun-example
+# qiankun-demo
 
 qiankun 实战 demo，父应用 vue，子应用使用 `react`, `vue` 和 `原生HTML`。
 
